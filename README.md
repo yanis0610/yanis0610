@@ -4,9 +4,11 @@
 Étudiant en 3ème année de Licence Informatique, passionné par les **mathématiques appliquées**, la **modélisation quantitative** et l'**analyse des risques**.
 
 ### 🛠️ Compétences & Outils
-- **Mathématiques & Modélisation :** Calcul stochastique, Probabilités avancées, Algèbre linéaire, Statistiques.
-- **Programmation Scientifique :** Python (NumPy, SciPy, Pandas, Matplotlib).
-- **Rédaction Scientifique :** LaTeX, Markdown.
+
+- **Mathématiques & Modélisation :** Calcul stochastique, Probabilités avancées, Analyse, Algèbre linéaire, Statistiques.
+- **Langages & Programmation :** Python, R, MATLAB, C++, Java, SQL.
+- **Outils & Environnements :** Excel Avancé, LaTeX, Git, Jupyter.
+- **Langues :** Kabyle, Arabe, Français (TCF B2), Anglais.
 
 ### 📌 Projets Majeurs (Modélisation Quantitative)
 1. **[Monte-Carlo-VaR-Simulation](./Monte-Carlo-VaR-Simulation)** : Modélisation des risques financiers via simulations stochastiques et calcul de la Value-at-Risk (VaR).
