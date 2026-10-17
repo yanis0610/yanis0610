@@ -11,7 +11,7 @@
 - **Langues :** Kabyle, Arabe, Français (TCF B2), Anglais.
 
 ### 📌 Projets Majeurs (Modélisation Quantitative)
-1. **[Monte-Carlo-VaR-Simulation](./monte_carlo_var.pdf)** : Modélisation des risques financiers via simulations stochastiques et calcul de la Value-at-Risk (VaR).
-2. **[Black-Scholes-vs-Binomial-Tree](./Modele-Black-Scholes-et-Arbre-Binomial.pdf)** : Évaluation et comparaison de modèles d'options financières et calcul des Grecques.
-3. **[SVD-Image-Compression](./SVD_Reduction_Dimension.pdf)** : Compression d'images et réduction de dimensionnalité par Décomposition en Valeurs Singulières.
+1. **[Monte-Carlo-VaR-Simulation](https://github.com/yanis0610/Monte-Carlo-VaR)** : Modélisation des risques financiers via simulations stochastiques et calcul de la Value-at-Risk (VaR).
+2. **[Black-Scholes-vs-Binomial-Tree](https://github.com/yanis0610/Modele-Black-Scholes-et-Arbre-Binomial)** : Évaluation et comparaison de modèles d'options financières et calcul des Grecques.
+3. **[SVD-Image-Compression](https://github.com/yanis0610/SVD-Reduction-de-Dimension)** : Compression d'images et réduction de dimensionnalité par Décomposition en Valeurs Singulières.
 
